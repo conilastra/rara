@@ -1,3 +1,2 @@
 # rara
-Miranda Lastra
 
