@@ -1,3 +1,3 @@
-# rara
-Miranda Lastra
+# About me
+I'm a mirrorball
 
